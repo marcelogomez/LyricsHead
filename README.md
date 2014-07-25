@@ -8,15 +8,13 @@ LyricsHead was developed as a project for Mike Scott's Mobile Computing class at
 development of the app, unfortunately, that license is not valid anymore so I cannot upload the code right now. I will
 as soon as I remove all references to their service. For now all we have is screenshots from its glory days.
 
-<div align="center">
-  <table align="center" border="0">
+  <table align="center" border="0" width="100%">
     <tr>
       <td><img src="4.png" alt="Works with Play Music" height="320" width="180" align="middle"></td>
-      <td><img src="1.png" alt="You can view the lyrics within the app" height="320" width="180" align="middle"></td>
-      <td><img src="3.png" alt="Works with Spotify" height="320" width="180" align="middle"></td>
+      <td ><img src="1.png" alt="You can view the lyrics within the app" height="320" width="180" align="middle"></td>
+      <td ><img src="3.png" alt="Works with Spotify" height="320" width="180" align="middle"></td>
     </tr>
   </table>
-</div>
 
 
 NOTE: After removing the lyrics functionality, the app will be mostly useless :( so I'll probably end up releasing the 
